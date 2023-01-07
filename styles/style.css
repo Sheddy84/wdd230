@@ -1,4 +1,5 @@
-.body {
+#body {
+display: flex;
 margin: 200px auto;
 padding-left: 300px;
 padding-right: 300px;
