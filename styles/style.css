@@ -5,6 +5,12 @@ padding-left: 300px;
 padding-right: 300px;
 }
 
-.header {
-    background-color: black;
+header {
+    display: flex;
+    background-color:;
+}
+
+header img {
+    margin:0;
+    padding-left: 0%;
 }
