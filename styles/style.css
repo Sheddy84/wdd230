@@ -11,8 +11,6 @@ header {
    justify-content:space-around;
    align-items: center;
    background-color:blue;
-   margin: 50px;
-   padding: 0.5em;
    border: 10px solid blue;
    font-size: 10pt;
    box-shadow: 10px 10px 10px 10px;
@@ -29,6 +27,7 @@ header, footer {
    background-color: blue;
    color:#fff;
    width: 400px;
+   margin: 25px;
 }
 
 body {
